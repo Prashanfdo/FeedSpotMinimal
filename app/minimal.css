@@ -1,0 +1,41 @@
+﻿.edit_minimal span {
+  background-position: -95px -121px !important;
+}
+html.minimal body > div.top.topwrapper {
+  display: none;
+}
+html.minimal .c1outerwrap {
+  margin-top: 10px;
+}
+html.minimal #body {
+  padding-top: 0;
+}
+html.minimal .addnewsite {
+  margin-left: 6px;
+}
+html.minimal .edit_minimal span {
+  background-position: -119px -121px !important;
+}
+html.minimal #feeds {
+  border: none !important;
+}
+html.minimal #feeds > .fixed-subnav {
+  display: none;
+}
+html.minimal #feeds .top_share_buttons {
+  display: none;
+}
+html.minimal #feeds > .fixed_subnav_body {
+  border-radius: 5px 5px 0px 0px;
+  border-top: 1px solid #e7e7e7;
+  margin-top: 10px;
+}
+html.minimal #feeds > .fixed_subnav_body #ad_close {
+  display: none !important;
+}
+html.minimal #feeds > .fixed_subnav_body #ad_close + div {
+  display: none !important;
+}
+html.minimal #feeds > .fixed_subnav_body .f_subnav_i2 {
+  display: none;
+}
