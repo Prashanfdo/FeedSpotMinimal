@@ -57,8 +57,11 @@
     <Content Include="DebugSettings.template.xml" />
     <Content Include="Properties\build\ligershark.chrome.targets" />
     <Content Include="app\minimal.less" />
+    <Content Include="screenshots\icon.png" />
     <Content Include="screenshots\screen1.PNG" />
     <Content Include="screenshots\screen2.PNG" />
+    <Content Include="README.md" />
+    <Content Include="app.zip" />
     <None Include="scripts\_references.js" />
     <None Include="scripts\chrome-api-vsdoc.js" />
   </ItemGroup>
